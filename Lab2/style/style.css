@@ -44,7 +44,7 @@
   border: none;
   border-radius: 0px;
   cursor: pointer;
-  width: 250px;
+  width: 430px;
 }
  .forgot{
   font-family: Poppins-Regular;
@@ -56,4 +56,17 @@ color: #00ad5f;
 }
 
 
+.website{
+  display: inline-flex;
+}
+#wekil{
+  width: 470px;
+}
+.login-panel{
+  width: 470px;
+  height: 680px;
+}
+.website{
+  margin-left: 300px;
+}
 
